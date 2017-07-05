@@ -1,0 +1,27 @@
+{
+  "name": "leedskit",
+  "version": "1.0.0",
+  "description": "kit for FE",
+  "main": "./leedskit.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moumoutang/leedskit.git"
+  },
+  "keywords": [
+    "host",
+    "http"
+  ],
+  "author": "leeds.li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moumoutang/leedskit/issues"
+  },
+  "homepage": "https://github.com/moumoutang/leedskit#readme",
+  "dependencies": {
+    "async": "^2.4.1",
+    "express": "^4.15.3"
+  }
+}
